@@ -1,0 +1,50 @@
+Sure! Here's a revised version of your resume that aligns with the job description:
+
+JESSE JIN
+Vancouver, BC | Tel: (604) 318-9713 | Email: muxi.jin1998@gmail.com
+LinkedIn: linkedin.com/in/jesse-jin-2201681a0/ | Github: https://jesse980107.github.io/Muxi_Jin/
+
+EDUCATION
+UNIVERSITY OF BRITISH COLUMBIA
+Bachelor of Arts in Mathematics, Minor in Statistics
+Relevant coursework: Data Management, RDBMS, Statistical Models, Time Series Forecasting, Linear Algebra, Optimization, Stochastic Processes, Data Structures and Algorithms, Algorithms Design, Linear Programming, Game Theory, Experiments Design, Causal Inferences
+
+KWANTLEN POLYTECHNIC UNIVERSITY
+Bachelor of Arts in Economics
+Relevant coursework: Macroeconomic & Microeconomic Analysis, Strategic Thinking, Money & Banking, International Trade
+
+TECHNICAL SKILLS
+Computer Languages: Python (Scikit-learn, NumPy, Pandas, Statsmodel, SciPy, Keras, TensorFlow), R, Java, JavaScript, PHP, MATLAB
+Software & Cloud: AWS (Dynamo DB, S3), Snowflake, Snowpark, Spark, Jupyter, Github, Workbench, RStudio
+Query Languages: SQL, MySQL, PostgreSQL, Big Query
+Visualizations: Tableau, Power BI, Matplotlib, Seaborn
+Certifications: Supervised & Unsupervised Machine Learning, Linear Classifiers, Google Data Analytics Specialization, Python For Everybody Specialization, Data-Driven Decision Making in SQL, Analyzing Data in Tableau
+
+WORK EXPERIENCE
+Hinbor | Data Scientist
+Vancouver, BC / Jun 2022 ¨C Present
+- Utilized effective user segmentation techniques based on purchasing habits and in-app actions to categorize users, facilitating targeted marketing campaigns and personalized promotions.
+- Built a Machine Learning Model to accurately strategize coupon distribution and optimized targeting, leading to a 10% higher coupon utilization and 15% reduction in expenses.
+- Leveraged data analysis and insights to make data-driven business decisions, offering valuable inputs and recommendations for online marketing and advertising strategies.
+
+ACADEMIC PROJECTS
+Lead Targeting and Customer Segmentation
+Vancouver / Apr - May 2022
+- Developed and deployed Mixpanel for advanced analytics and tracking of in-app user behavior, utilizing the data to enhance decision-making and gain valuable insights into customer behavior.
+- Designed and constructed a robust database, incorporating feature engineering techniques and integrating order data from Stripe, enabling efficient storage, organization, and retrieval of user information for personalized experiences and targeted marketing campaigns.
+- Segmented customers based on attributes such as location and historic purchase patterns using K-means clustering. Scored the potential value of each lead and potential customer.
+- Predicted which offers or products will be most attractive to different customers and demographics at different times.
+
+Kaggle Competition - Sales Forecasting
+Vancouver / Feb - Mar 2022
+- Built a sales estimator using GBMs with XGBoost, achieving a top 20% ranking.
+
+Google AdSense Datasets
+Vancouver / May - Jun 2021
+- Performed exploratory analysis on the advertising PID Dataset.
+- Conducted A/B testing on different advertising slots to test whether the performance could hit industry benchmarks.
+
+ADDITIONAL INFORMATION
+- Eligible for the WorkBC Subsidy Program
+
+Please note that this is just a template, and you should customize it further to highlight the most relevant skills and experiences for the specific job you are applying for.
